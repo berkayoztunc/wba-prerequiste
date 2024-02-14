@@ -1,0 +1,14 @@
+@whitemoondev
+
+
+Airdrop trx
+https://explorer.solana.com/tx/5qFARiKbkBRDzXcUMf6bKJ8NPQwA283u4MFujrUCSL3eTKgSC5BNSMD32Fg8rfmoJM64v6D54T8gWAn6NGHsBaVa?cluster=devnet
+
+Transfer trx
+https://explorer.solana.com/tx/2h7UaTbSLGcuLiNjzfPirstkwdtnJYzTYjkWWx4cvG4WD8SHX41iNM6S7brwePoPac7BkEUiNngovj9J21QT6jkX?cluster=devnet
+
+Enroll trx
+https://explorer.solana.com/tx/522H9A2dr4753WfeY2w28djNpegAFE3C68iv52XVY71XsqKYG36xB2TMrDtwJZ9guoysMVpAWDxDkSEsr4WaFRJp?cluster=devnet
+
+
+
