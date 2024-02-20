@@ -1,3 +1,4 @@
-airdrop/node_modules
-airdrop/dev-wallet.json
-airdrop/yarn.lock
+workouts/node_modules
+workouts/dev-wallet.json
+workouts/mint-wallet.json
+workouts/yarn.lock

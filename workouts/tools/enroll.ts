@@ -1,7 +1,7 @@
 import { Connection, Keypair, SystemProgram, PublicKey } from "@solana/web3.js"
 import { Program, Wallet, AnchorProvider, Address } from "@project-serum/anchor"
 import { WbaPrereq, IDL } from "./idl"
-import wallet from "./dev-wallet.json"
+import wallet from "../dev-wallet.json"
 
 const keypair = Keypair.fromSecretKey(Uint8Array.from(wallet))
 const connection = new Connection("https://api.devnet.solana.com");
