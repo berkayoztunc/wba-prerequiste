@@ -17,7 +17,7 @@ mint pubkey `4i6WHkyStR9J1H3QpanpfDS83MdgGzFsgHKvFrcFRq3u`
 - [x] Mint init trx
 https://explorer.solana.com/tx/2qL7fPDwAPncyekNyMXfrBGj4Q3EgBrGJdxHHkiJcKxJxrZt3JBJkm1JJhUctqoL2w3DrPu3fmVXVHmfKYt8H8GQ?cluster=devnet
 
- - [x]Mint trx
+- [x] Mint trx
 https://explorer.solana.com/tx/573WsUwns2Rpjb1cPnzUdzZq6m4bB3HkwL9zjPZdd3Y17pZJNww4gFPgobksdhc7FzNVGcZfkfXBrv3b8pa94iQw?cluster=devnet
 
 
