@@ -20,4 +20,9 @@ https://explorer.solana.com/tx/2qL7fPDwAPncyekNyMXfrBGj4Q3EgBrGJdxHHkiJcKxJxrZt3
 - [x] Mint trx
 https://explorer.solana.com/tx/573WsUwns2Rpjb1cPnzUdzZq6m4bB3HkwL9zjPZdd3Y17pZJNww4gFPgobksdhc7FzNVGcZfkfXBrv3b8pa94iQw?cluster=devnet
 
+L3
+- [x] Create metadata 
+https://solscan.io/tx/2fBCfXXBgDR9mFM3qhCd1YD1gi5daVo14tighWd6fvB5Q56QAJge4X5KXQuyfhuCjgHMApq7XJ1eqXJzrnC9EpQB?cluster=devnet
 
+
+spl pubkey `4i6WHkyStR9J1H3QpanpfDS83MdgGzFsgHKvFrcFRq3u`
