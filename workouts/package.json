@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "balance": "ts-node ./tools/balance.ts",
     "keygen": "ts-node ./tools/keygen.ts",
     "airdrop": "ts-node ./tools/airdrop.ts",
     "transfer": "ts-node ./tools/transfer.ts",
@@ -11,12 +12,18 @@
     "convert": "ts-node ./tools/convert.ts",
     "init-token": "ts-node ./spl/spl_init.ts",
     "mint-token": "ts-node ./spl/spl_mint.ts",
-    "add-metadata": "ts-node ./spl/spl_metadata.ts"
+    "transfer-token": "ts-node ./spl/spl_transfer.ts",
+    "add-metadata": "ts-node ./spl/spl_metadata.ts",
+    "upload": "ts-node ./nft/nft_image.ts",
+    "upload-metadata" : "ts-node ./nft/nft_metadata.ts",
+    "mint-nft": "ts-node ./nft/nft_mint.ts"
   },
   "dependencies": {
     "@metaplex-foundation/mpl-token-metadata": "^3.2.0",
     "@metaplex-foundation/umi": "^0.9.1",
     "@metaplex-foundation/umi-bundle-defaults": "^0.9.1",
+    "@metaplex-foundation/umi-uploader-bundlr": "^0.9.1",
+    "@metaplex-foundation/umi-uploader-irys": "^0.9.1",
     "@project-serum/anchor": "^0.26.0",
     "@solana/spl-token": "^0.4.0",
     "@solana/web3.js": "^1.90.0",
